@@ -19,7 +19,7 @@ html{
 body{
     background: #fff;
     color: #000000;
-    background-image: url(Animation.png);
+    background-image: url(BlueAnimation.png);
     background-size: cover;
     background-position: center;
 }
@@ -51,7 +51,7 @@ h1{
 #header{
     width: 100%;
     height: 100vh;
-    background-image: url(images/Blue\ Animation\ Deskop\ Wallpaper.png);
+    background-image: url(Animation.png);
     background-size: cover;
     background-position:left;
     
@@ -123,7 +123,7 @@ nav ul li a:hover::after{
     display: flex;  
     flex-direction: column;
     background-attachment: fixed;
-    background-image: url(images/Animation\ Deskop\ Wallpaper.png);
+    background-image: url(Animation.png);
     background-size: cover;
     background-position: center;
 
@@ -375,7 +375,7 @@ display: block;
 /* -----------services------------ */
 #services{
     padding: 30px 0;
-    background-image: url(images/Animation\ Deskop\ Wallpaper22.png);
+    background-image: url(AnimationWallpaper22.png);
     background-size: cover;
     background-position: center;
 }
@@ -424,7 +424,7 @@ display: block;
     justify-content: center;
     padding: 60px 2% 20px 2%;
     padding: 50px, 0;
-    background-image: url(images/Animation\ Deskop\ Wallpaper.png);
+    background-image: url(Animation.png);
     background-size: cover;
     background-position: center;
 }
