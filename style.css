@@ -19,7 +19,7 @@ html{
 body{
     background: #fff;
     color: #000000;
-    background-image: url(Animation\ Deskop\ Wallpaper.png);
+    background-image: url(images/Animation.png);
     background-size: cover;
     background-position: center;
 }
@@ -235,7 +235,7 @@ display: block;
 #resume{
     padding: 70px 30px;
     background-color: #fff;
-    background-image: url(images/Orange\ and\ Green\ Light\ Watercolor\ Background\ Christian\ Desktop\ Wallpaper\ \(1\).png);
+    background-image: url(images/WatercolorBackground.png);
 }
 #resume .resume-row{
     display: flex;
